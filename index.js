@@ -60,7 +60,7 @@ for(i = 0; i < (str.length); i++){
 /*
 let str1 = 'please give RS 1000'
 console.log(str1.slice(15,19))*/
-
+/*
 // change the 4th char of string.
 let name = 'deepika'
 a = name.slice(3,4)
@@ -68,5 +68,5 @@ console.log(a)
 let b = name.slice(3,4)
 b = 'v'
 console.log(b)
-console.log(name.slice(0,3) + b + name.slice(4,7))
+console.log(name.slice(0,3) + b + name.slice(4,7)) */
 
